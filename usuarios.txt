@@ -1,0 +1,15 @@
+VERSIÓN PHP
+correo electronico y contraseña
+
+|NOMBRE       		|FECHA NACIMIENTO|CORREO	      	|CONTRASEÑA
+
+|Canilo Andres	      	|1980/05/14      |cami@gmail.com  	|123456
+
+|Fernando Perez		|1982/05/20      |fercho@gmail.com	|123456
+
+|Nancy Lopez		|1980/05/27      |nlopez@msn.com	|123456
+
+
+|CORREO	      	 |CONTRASEÑA
+
+|cjcs@dominio.com|123456
